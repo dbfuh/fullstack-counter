@@ -1,0 +1,12 @@
+/.idea/
+
+
+**.iml
+**.cmd
+**.md
+**/target/
+**/.mvn/
+**/mvnw
+**/node_modules
+
+!README.md
